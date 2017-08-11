@@ -1,0 +1,14 @@
+#cabecera{
+    font-family: Broadway;
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+}
+#menu ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 25px;
+    background: chartreuse;
+    padding: 10px;
+    border-radius: 10px;
+}
