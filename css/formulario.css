@@ -1,0 +1,54 @@
+
+form{
+/* para centrar el formaulario poner color found */
+
+margin: 0 auto;
+widh:900px;
+background: buttonface;
+ margin-bottom: 1em;
+
+/* ponemos un borde */
+border: 1px solid #CCC;
+border-radius: 20px;
+}
+/* poner espacio entre los elementos */
+
+form div{ margin-top: 1em;
+         
+}
+/* para asegurarnos que todos lo slabels tengan el mismo ancho*/
+label{
+    display: inline-block;
+    width: 300px;
+    text-align: right;
+    font-size: 14px;
+}
+input, textarea {
+    width: 400px;
+    font: 1em sans-serif;
+}
+
+/* aplicamos a traves de la pseudoclase :focus, un estilo difernte al elemento activo*/
+
+input:focus{
+    border: 2px solid #000;
+    background: #F3F3F3;
+    
+}
+
+textarea{
+    vertical-align: middle;
+}
+
+button{
+    margin-left: 1em;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+
