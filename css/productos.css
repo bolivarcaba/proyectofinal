@@ -1,2 +1,20 @@
 /* ---- Estilos básicos ---------------------------------------------------- */
+#cuerpo1gen{
+    
+}
+#cuerpo1 {
+  float: left;
+  width: 30%;
+
+
+}
+#cuerpo2 {
+  float: left;
+  width: 30%;
+  
+}
+#cuerpo3 {
+  float: left;
+  width: 30%;
+}
 
